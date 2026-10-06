@@ -1,0 +1,9 @@
+{
+  "eigen_version": "3.4.0",
+  "package": "libeigen3-dev",
+  "package_version": "3.4.0-2ubuntu2",
+  "package_sha256": "04ee3759712a0f003fb186edf83724947826d7a43f3ef8d858cd359ca38a25ef",
+  "package_path": "pool/universe/e/eigen3/libeigen3-dev_3.4.0-2ubuntu2_all.deb",
+  "source": "Ubuntu22.04 package repository",
+  "include_directory": "third_party/eigen3"
+}
